@@ -1,0 +1,3 @@
+build/
+.venv/
+legal_team_mcp.egg-info
