@@ -4,6 +4,11 @@ version = "0.1.0"
 description = "MCP server for a legal team to help with drafts"
 readme = "README.md"
 requires-python = ">=3.10"
+authors = [
+    { name = "Jauhar", email = "siddmohamed19@gmail.com" },
+]
+keywords = ["agents", "camel", "mcp", "llm"]
+license = { text = "MIT" }
 dependencies = [
     "camel-ai",
 ]
