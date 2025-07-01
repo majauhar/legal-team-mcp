@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "time": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/ABSOLUTE/PATH/TO/PARENT/FOLDER/legal-team",
+                "run",
+                "legal_team_server.py"
+            ], 
+            "env": {
+                "OPENAI_API_KEY": "sk-proj-..."
+            }
+        }
+    }
+}
